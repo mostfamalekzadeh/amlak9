@@ -1,0 +1,84 @@
+@font-face {
+    font-family: ekan;
+    src: url(/font/Yekan.ttf);
+}
+
+
+
+body{
+    background-color: rgb(20, 19, 19);
+}
+h1{
+    color: rgb(251, 255, 0);
+    font-family: ekan;
+}
+#img{
+    height: 500px;
+    width: 600px;
+    border-radius: 50px;
+}
+    #span{
+        color: red;
+
+    }
+
+    #hr{
+        color: rgb(13, 255, 0);
+    }
+    h2{
+        color: rgb(222, 241, 8);
+        font-family: ekan;
+    }
+    b{
+        color: rgb(87, 87, 183);
+        font-family: ekan;
+    }
+    .btn{
+        background-color: rgb(243, 239, 16);
+        height: 25px;
+        width: 70px;
+        font-family: ekan;
+        border: none;
+        border-radius: 40px;
+        cursor: pointer;
+        font-weight: 700;
+
+    }
+.btn:hover{
+    background-color: rgb(4, 240, 181);
+    font-weight: 1000;
+
+}
+#aks{
+    height: 250px;
+    width: 350px;
+    border-radius: 50px;
+}
+#div{
+    height: 170px;
+    width: 350px;
+    background-color: aqua;
+    border-radius: 50px;
+    font-family: ekan;
+    color: rgb(14, 14, 232);
+}
+.but{
+    font-family: ekan;
+    height: 25px;
+    width: 120px;
+    background-color: rgb(144, 226, 43);
+    border: none;
+    border-radius: 40px;
+    font-weight: 700;
+
+}
+.but:hover{
+    background-color: rgb(20, 150, 109);
+    font-weight: 900;
+}
+#div1{
+    height: 25px;
+    width: 1700px;
+    background-color: aquamarine;
+    font-family: ekan;
+}
